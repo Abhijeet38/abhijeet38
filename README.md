@@ -11,9 +11,9 @@
 
 ### About Me
 
-- 📱 **Mobile Engineering Intern @ Expedia Group**
-  
-- 🧠 Passionate about **DSA** & **Competitive Programming**
+- 💻 **SDE(Backend) Intern @ WheelsEye**
+
+- 📱 **Ex Mobile Engineering Intern @ Expedia Group**
   
 - 🛡️ Knight @ **LeetCode**, Specialist @ **Codeforces**, 4⭐ @ **CodeChef**
   

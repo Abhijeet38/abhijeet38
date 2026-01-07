@@ -11,8 +11,8 @@
 
 ### About Me
 
-- 💻 **SDE(Backend) Intern @ WheelsEye**
-
+- 💻 **SDE Intern @ Amazon**  
+- 💻 **Ex SDE(Backend) Intern @ WheelsEye**  
 - 📱 **Ex Mobile Engineering Intern @ Expedia Group**
   
 - 🛡️ Knight @ **LeetCode**, Specialist @ **Codeforces**, 4⭐ @ **CodeChef**
@@ -21,8 +21,6 @@
   
 - 💻 Love building **Android apps** and **full-stack web projects**
 
-<br>
-<br>
 
 
 ### Connect with me:

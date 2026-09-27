@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-<img src="assets/experience.svg" width="460" alt="SDE I at Amazon. Previously an intern at Amazon, WheelsEye and Expedia Group." />
-<img src="assets/achievements.svg" width="460" alt="LeetCode Knight, Codeforces Specialist, CodeChef 4-star. J.P. Morgan Code for Good 2025 finalist." />
+<img src="assets/experience.svg" width="50%" alt="SDE I at Amazon. Previously an intern at Amazon, WheelsEye and Expedia Group." />
+<img src="assets/achievements.svg" width="50%" alt="LeetCode Knight, Codeforces Specialist, CodeChef 4-star. J.P. Morgan Code for Good 2025 finalist." />
 </p>
 
 <p align="center">
@@ -33,16 +33,10 @@
 
 
 <p align="center">
-<a href="https://github.com/Abhijeet38"><img src="assets/stats.svg" width="460" alt="Public GitHub repositories, stars, contributions and streaks. Refresh date shown on card." /></a>
-<a href="https://github.com/Abhijeet38"><img src="assets/languages.svg" width="460" alt="Languages by bytes in owned public non-fork repositories. Refresh date shown on card." /></a>
+<img src="assets/stats.svg" width="50%" alt="Public GitHub repositories, stars, contributions and streaks. Refresh date shown on card." />
+<img src="assets/languages.svg" width="50%" alt="Languages by bytes in owned public non-fork repositories. Refresh date shown on card." />
 </p>
 
-<details>
-<summary>About these numbers</summary>
-
-Repository and language data comes from the GitHub API. Languages are measured by bytes in my owned public, non-fork repositories, not proficiency. Contributions and daily streaks come from GitHub Readme Streak Stats, using Asia/Kolkata time. Cards show their last successful refresh date.
-
-</details>
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/footer-mobile.svg" />

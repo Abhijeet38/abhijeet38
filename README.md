@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-<img src="assets/experience.svg" width="49.9%" alt="SDE I at Amazon. Previously an intern at Amazon, WheelsEye and Expedia Group." />
-<img src="assets/achievements.svg" width="49.9%" alt="LeetCode Knight, Codeforces Specialist, CodeChef 4-star. J.P. Morgan Code for Good 2025 finalist." />
+<img src="assets/experience.svg" width="49%" alt="SDE I at Amazon. Previously an intern at Amazon, WheelsEye and Expedia Group." />
+<img src="assets/achievements.svg" width="49%" alt="LeetCode Knight, Codeforces Specialist, CodeChef 4-star. J.P. Morgan Code for Good 2025 finalist." />
 </p>
 
 <p align="center">
@@ -33,8 +33,8 @@
 
 
 <p align="center">
-<img src="assets/stats.svg" width="49.9%" alt="Public GitHub repositories, stars, contributions and streaks. Refresh date shown on card." />
-<img src="assets/languages.svg" width="49.9%" alt="Languages by bytes in owned public non-fork repositories. Refresh date shown on card." />
+<img src="assets/stats.svg" width="49%" alt="Public GitHub repositories, stars, contributions and streaks. Refresh date shown on card." />
+<img src="assets/languages.svg" width="49%" alt="Languages by bytes in owned public non-fork repositories. Refresh date shown on card." />
 </p>
 
 

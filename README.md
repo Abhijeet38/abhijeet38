@@ -1,48 +1,57 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
-<h4 align="center">📚 Student at Delhi Technological University (DTU)</h4>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg" />
+  <img src="assets/hero.svg" width="100%" alt="Abhijeet Kumar | SDE I at Amazon | Android, backend and web | Delhi Technological University" />
+</picture>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhijeet38&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/abhijeet-kumar-25287a257/"><img src="assets/linkedin.svg" width="148" alt="LinkedIn" /></a>
+  <a href="mailto:abhijeet5000kumar@gmail.com"><img src="assets/email.svg" width="148" alt="Email me" /></a>
 </p>
-
-
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Coding gif" />
-
-
-### About Me
-
-- 💻 **SDE Intern @ Amazon**  
-- 💻 **Ex SDE(Backend) Intern @ WheelsEye**  
-- 📱 **Ex Mobile Engineering Intern @ Expedia Group**
-  
-- 🛡️ Knight @ **LeetCode**, Specialist @ **Codeforces**, 4⭐ @ **CodeChef**
-  
-- 🏆 **Finalist @ J.P. Morgan Code for Good 2025**
-  
-- 💻 Love building **Android apps** and **full-stack web projects**
-
-
-
-### Connect with me:
-<p align="center" style="padding: 10px;"> <a href="https://www.linkedin.com/in/abhijeet-kumar-25287a257/" target="_blank" style="margin: 0 15px;"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/> </a> <a href="https://leetcode.com/u/abhijeet5000kumar/" target="_blank" style="margin: 0 15px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/> </a> <a href="https://codeforces.com/profile/abhijeet5000kumar" target="_blank" style="margin: 0 15px;"> <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="40" alt="Codeforces"/> </a> <a href="https://www.codechef.com/users/abhijeet68" target="_blank" style="margin: 0 15px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CodeChef_Logo.svg/320px-CodeChef_Logo.svg.png" width="90" alt="CodeChef"/> </a> <a href="https://www.instagram.com/abhijeet_90_8/" target="_blank" style="margin: 0 15px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/240px-Instagram_logo_2016.svg.png" width="35" alt="Instagram"/> </a> <a href="mailto:abhijeet5000kumar@gmail.com" target="_blank" style="margin: 0 15px;"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="35" alt="Gmail"/> </a> </p>
-
-
-### Tech Stack:
-<p align="center" style="padding: 10px;"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" alt="HTML" style="margin: 0 15px;" /> <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" alt="CSS" style="margin: 0 15px;" /> <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="40" alt="React" style="margin: 0 15px;" /> <img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="40" alt="MongoDB" style="margin: 0 15px;" /> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" alt="JavaScript" style="margin: 0 15px;" /> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" alt="C++" style="margin: 0 15px;" /> </p> <p align="center" style="padding: 10px;"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" alt="Node.js" style="margin: 0 15px;" /> <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="40" alt="Kotlin" style="margin: 0 15px;" /> <img src="https://img.icons8.com/color/48/000000/android-os.png" width="40" alt="Android" style="margin: 0 15px;" /> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" width="40" alt="Jetpack Compose" style="margin: 0 15px;" /> <img src="https://img.icons8.com/color/48/000000/graphql.png" width="40" alt="GraphQL" style="margin: 0 15px;" /> <img src="https://img.icons8.com/color/48/000000/git.png" width="40" alt="Git" style="margin: 0 15px;" /> </p>
-
----
-
-###  GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet38&theme=react&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet38&layout=compact&theme=react&hide_border=true&card_width=250" height="150" alt="Top Languages" />
+<img src="assets/experience.svg" width="460" alt="SDE I at Amazon. Previously an intern at Amazon, WheelsEye and Expedia Group." />
+<img src="assets/achievements.svg" width="460" alt="LeetCode Knight, Codeforces Specialist, CodeChef 4-star. J.P. Morgan Code for Good 2025 finalist." />
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/abhijeet5000kumar/"><img src="assets/leetcode.svg" width="148" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/abhijeet5000kumar"><img src="assets/codeforces.svg" width="148" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/abhijeet68"><img src="assets/codechef.svg" width="148" alt="CodeChef" /></a>
+</p>
 
----
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/toolkit-mobile.svg" />
+  <img src="assets/toolkit.svg" width="100%" alt="Kotlin, Android, Jetpack Compose, JavaScript, React, HTML, CSS, Node.js, GraphQL, MongoDB, C++ and Git." />
+</picture>
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+<br>
 
----
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stats-heading-mobile.svg" />
+  <img src="assets/stats-heading.svg" width="100%" alt="GitHub stats / The public side of my code." />
+</picture>
 
+
+<p align="center">
+<a href="https://github.com/Abhijeet38"><img src="assets/stats.svg" width="460" alt="Public GitHub repositories, stars, contributions and streaks. Refresh date shown on card." /></a>
+<a href="https://github.com/Abhijeet38"><img src="assets/languages.svg" width="460" alt="Languages by bytes in owned public non-fork repositories. Refresh date shown on card." /></a>
+</p>
+
+<details>
+<summary>About these numbers</summary>
+
+Repository and language data comes from the GitHub API. Languages are measured by bytes in my owned public, non-fork repositories, not proficiency. Contributions and daily streaks come from GitHub Readme Streak Stats, using Asia/Kolkata time. Cards show their last successful refresh date.
+
+</details>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/footer-mobile.svg" />
+  <img src="assets/footer.svg" width="100%" alt="Good software starts with a conversation." />
+</picture>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhijeet-kumar-25287a257/"><img src="assets/linkedin.svg" width="148" alt="LinkedIn" /></a>
+  <a href="mailto:abhijeet5000kumar@gmail.com"><img src="assets/email.svg" width="148" alt="Email me" /></a>
+  <a href="https://www.instagram.com/abhijeet_90_8/"><img src="assets/instagram.svg" width="148" alt="Instagram" /></a>
+</p>
